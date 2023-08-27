@@ -1,0 +1,12 @@
+body {
+    background: #247291;
+    /* color: #f5f9ee; */
+  }
+  
+.box {
+    background: #f8da5b;
+    border: 5px solid #f5f9ee;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
