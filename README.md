@@ -1,4 +1,4 @@
-This is a React app using useEffect hook!
+This is a React app using the useEffect hook!
 
 Css centered with grid.
 
