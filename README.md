@@ -1,4 +1,4 @@
-This is a React app using the useEffect hook!
+This is a React app using the useEffect hook! Practising is the key to my success, hence I kept on practising my React Hooks to gain a firm understanding on them.
 
 Css centered with grid.
 
